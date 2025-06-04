@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 안녕하세요, 백엔드 개발자 유동곤입니다!  
 
-<!--
-**donggonyoo/donggonyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 알고리즘 문제 해결의 재미로 개발에 입문해, 새로운 기술을 탐구하며 성장하는 백엔드 개발자 유동곤입니다. 꾸준함을 핵심 가치로 삼아 기술 블로그를 운영하며 지식을 기록하고 공유합니다.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 기술 스택  
+
+| **기술** | **설명** |
+|:---------|:---------|
+| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> **Java** | 객체지향 설계로 재사용 가능하고 유지보수 용이한 로직을 구현합니다. |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> **Git** | 효율적인 버전 관리와 협업, 코드 리뷰로 프로젝트 품질을 높입니다. |
+| <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> **Spring (Boot)** | RESTful API 개발, 의존성 관리, 계층형 구조로 체계적인 설계를 경험했습니다. |
+| <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" /> **JSP** | MVC 아키텍처를 구성하며 웹 요청 흐름을 깊이 이해합니다. |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> **MySQL** | SubQuery, WHERE 등 SQL로 효율적인 데이터 조회와 관리를 수행합니다. |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> **AWS** | EC2를 활용해 개발 및 배포 환경을 설정, 클라우드 인프라를 관리합니다. |
+
+---
+
+## 🌱 개발 철학  
+- **꾸준함**  
+  지속적인 학습과 기술 블로그를 통해 지식을 쌓고 공유합니다.  
+- **도전**  
+  새로운 기술을 탐구하며 끊임없이 성장하는 여정을 즐깁니다.  
+- **효율성**  
+  재사용 가능한 코드와 깔끔한 구조로 확장성과 유지보수성을 추구합니다.  
+
+---
+
+## 📫 연락처  
+- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **Blog**: [기술 블로그 링크](https://your-blog-url.com)  
+- **LinkedIn**: [링크드인 프로필](https://www.linkedin.com/in/your-profile)  
+
+---
+
+<p align="center">
+  <i>꾸준함과 도전으로 성장하는 개발자, 유동곤</i>  
+</p>
