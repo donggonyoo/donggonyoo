@@ -14,6 +14,7 @@
 | <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" /> **JSP** | MVC 아키텍처를 구성하며 웹 요청 흐름을 깊이 이해합니다. |
 | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> **MySQL** | SubQuery, WHERE 등 SQL로 효율적인 데이터 조회와 관리를 수행합니다. |
 | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> **AWS** | EC2를 활용해 개발 및 배포 환경을 설정, 클라우드 인프라를 관리합니다. |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> **JavaScript** | 동적 웹 기능 구현, 클라이언트-서버 상호작용을 위한 스크립트 작성 경험이 있습니다. |
 
 ---
 
