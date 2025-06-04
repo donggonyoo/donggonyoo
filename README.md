@@ -28,9 +28,8 @@
 ---
 
 ## 📫 연락처  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **Blog**: [기술 블로그 링크](https://your-blog-url.com)  
-- **LinkedIn**: [링크드인 프로필](https://www.linkedin.com/in/your-profile)  
+- **Email**: [ddkk8525@gmail.com](mailto:your.email@example.com)  
+- **Blog**: [https://ddkk1120.tistory.com/](https://your-blog-url.com)  
 
 ---
 
