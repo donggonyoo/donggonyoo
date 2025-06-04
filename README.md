@@ -17,6 +17,13 @@
 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> **JavaScript** | 동적 웹 기능 구현, 클라이언트-서버 상호작용을 위한 스크립트 작성 경험이 있습니다. |
 
 ---
+## 📂 주요 프로젝트  
+- **[javaSchedule](https://github.com/donggonyoo/javaSchedule)**  
+  java를 입문했을 때 만들었던 일정관리 프로젝트!
+- **[LDB학사관리시스](https://github.com/donggonyoo/LMSProject1)**  
+  JSP와 JavaScript를 활용한 학사 관리 웹 앱. MVC 아키텍처로 설계하였으며 사용자친화적인 인터페이스사용.
+
+  
 
 ## 🌱 개발 철학  
 - **꾸준함**  
