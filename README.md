@@ -28,8 +28,8 @@
 ---
 
 ## 📫 연락처  
-- **Email**: [ddkk8525@gmail.com](mailto:your.email@example.com)  
-- **Blog**: [https://ddkk1120.tistory.com/](https://your-blog-url.com)  
+- **Email**: [ddkk8525@gmail.com]
+- **Blog**: [https://ddkk1120.tistory.com/](https://ddkk1120.tistory.com/)  
 
 ---
 
