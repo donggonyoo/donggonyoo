@@ -22,6 +22,8 @@
   java를 입문했을 때 만들었던 일정관리 프로젝트!
 - **[LDB학사관리시스템](https://github.com/donggonyoo/LMSProject1)**  
   JSP와 JavaScript를 활용한 학사 관리 웹 앱. MVC 아키텍처로 설계하였으며 사용자친화적인 인터페이스사용.
+--**[LDB학사관리시스템(마이그레이션 및 고도화)](https://github.com/donggonyoo/LMSProject1/tree/realMain)**
+  기존 servlet구조의 프로젝트를 SpringBoot로 마이그레이션 및 전체적인 코드리팩토링
 
   
 
